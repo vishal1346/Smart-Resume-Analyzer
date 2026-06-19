@@ -1,5 +1,5 @@
 """
-app/__init__.py
+app/App
 -----------------
 Flask application factory. Keeping app creation in a factory function
 (instead of a global app object) is a clean-coding best practice that
